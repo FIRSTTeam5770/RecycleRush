@@ -79,4 +79,8 @@ public class Robot extends IterativeRobot {
     public void testPeriodic() {
         LiveWindow.run();
     }
+    boolean doesChristianEvenLift(){
+    	return false;	
+    }
 }
+    

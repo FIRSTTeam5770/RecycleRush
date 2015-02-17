@@ -22,7 +22,7 @@ public class LowerForklift extends Command {
     // Called repeatedly when this Command is scheduled to run
     protected void execute() {
     	//Tells the talon to move the motor in the downward position to lower the motor. 
-    	Robot.forklift.lowerForklift();
+    	Robot.forklift.Christian();
     }
 
     // Make this return true when this Command no longer needs to run execute()
